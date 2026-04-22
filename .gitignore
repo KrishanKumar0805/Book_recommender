@@ -6,4 +6,4 @@ data/chapters.csv
 data/interactions.csv
 models/*.pkl
 models/*.npz
-.ipynb_checkpoints/
+# .ipynb_checkpoints/
